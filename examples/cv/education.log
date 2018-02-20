@@ -1,0 +1,835 @@
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.11.22)  19 FEB 2018 22:47
+ restricted system commands enabled.
+**education.tex
+(./education.tex
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /Users/vrajroham/Library/texlive/2017/texmf-var/lua
+tex-cache/generic)(using read cache: /usr/local/texlive/2017/texmf-var/luatex-ca
+che/generic /Users/vrajroham/Library/texlive/2017/texmf-var/luatex-cache/generic
+)
+luaotfload | conf : Root cache directory is /Users/vrajroham/Library/texlive/201
+7/texmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/local/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /Users/vrajroham/Library/texlive/201
+7/texmf-var/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.141 seconds
+Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+! Undefined control sequence.
+l.4 \cvsection
+            {Education}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \cvsection{E
+              ducation}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[]Education 
+ []
+
+
+! LaTeX Error: Environment cventries undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{cventries}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.13   \cventry
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14     {B
+         .E in Computer Engineering} % Degree
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19       \begin{cvitems}
+                         % Description(s) bullet points
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 14--20
+[]B.E
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20       	\item {
+                 Project \textbf{Smart Farm Using Wireless Sensors Network} ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from /Users/vrajroham/Library/texli
+ve/2017/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /Use
+rs/vrajroham/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmrom
+an10-bold.luc)
+Overfull \hbox (30.77pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Smart
+ []
+
+
+Overfull \hbox (26.19pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Farm
+ []
+
+
+Overfull \hbox (17.22pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Us-
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (28.92001pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Wire-
+ []
+
+
+Overfull \hbox (17.54pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 less
+ []
+
+
+Overfull \hbox (21.88pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Sen-
+ []
+
+
+Overfull \hbox (19.56999pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 sors
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 work
+ []
+
+
+Overfull \hbox (22.45999pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Best
+ []
+
+
+Overfull \hbox (35.56001pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 project
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (21.35pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 year
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 2016\nullfont . 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21         \item {
+                  Published research paper on project \textbf{Smart Farm Usi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (30.77pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 Smart
+ []
+
+
+Overfull \hbox (26.19pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 Farm
+ []
+
+
+Overfull \hbox (17.22pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 Us-
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (28.92001pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 Wire-
+ []
+
+
+Overfull \hbox (17.54pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 less
+ []
+
+
+Overfull \hbox (21.88pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 Sen-
+ []
+
+
+Overfull \hbox (19.56999pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 sors
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (29.09pt too wide) in paragraph at lines 21--22
+\TU/lmr/bx/n/10 works
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22         \item {
+                  Runner-up in \textbf{WEB-WRANGLE} Web Designing and Progra...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (31.45999pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 WEB-
+ []
+
+
+Overfull \hbox (61.73pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 WRANGLE
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23         \item {
+                  Best performer in \textbf{Summer Training \& Internship Pr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (26.19pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 Sum-
+ []
+
+
+Overfull \hbox (19.59001pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 mer
+ []
+
+
+Overfull \hbox (30.78pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 Train-
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (8.94pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 &
+ []
+
+
+Overfull \hbox (14.58pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 In-
+ []
+
+
+Overfull \hbox (24.70001pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 tern-
+ []
+
+
+Overfull \hbox (20.51pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 ship
+ []
+
+
+Overfull \hbox (22.18001pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (25.66pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 gram
+ []
+
+
+Overfull \hbox (3.83pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 -
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 2014\nullfont ,
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 work
+ []
+
+
+Overfull \hbox (28.68pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 Bulls,
+ []
+
+
+Overfull \hbox (26.86002pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 Delhi\nullfont . 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24         \item {
+                  Guided team of 10 juniors for Live Project \textbf{Campus ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.31pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 Cam-
+ []
+
+
+Overfull \hbox (17.31999pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 pus
+ []
+
+
+Overfull \hbox (24.28pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 Con-
+ []
+
+
+Overfull \hbox (21.24pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 nect
+ []
+
+
+Overfull \hbox (52.07999pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 Techathon
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (29.09pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 works\nullfont . 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25         \item {
+                  Attended training and hands-on for \textbf{Cloud Computing...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (30.03pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 Cloud
+ []
+
+
+Overfull \hbox (27.47pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 Com-
+ []
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 put-
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 ing\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 		\item {
+            Technical presentation on \textbf{SNORT - Network Intrusion Dete...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.29     \cventry
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35       \begin{cvitems}
+                         % Description(s) bullet points
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (39.7pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 SNORT
+ []
+
+
+Overfull \hbox (3.83pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 -
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 work
+ []
+
+
+Overfull \hbox (14.58pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 In-
+ []
+
+
+Overfull \hbox (19.43001pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 tru-
+ []
+
+
+Overfull \hbox (19.87pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 sion
+ []
+
+
+Overfull \hbox (17.92001pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 De-
+ []
+
+
+Overfull \hbox (18.68001pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 tec-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (8.94pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 &
+ []
+
+
+Overfull \hbox (21.70001pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 Pre-
+ []
+
+
+Overfull \hbox (21.24pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 ven-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (20.83pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 Sys-
+ []
+
+
+Overfull \hbox (19.32pt too wide) in paragraph at lines 26--36
+\TU/lmr/bx/n/10 tem\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36       	\item {
+                 Project \textbf{Departmental Online Examination} awarded as...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (17.92001pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 De-
+ []
+
+
+Overfull \hbox (25.02pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 part-
+ []
+
+
+Overfull \hbox (25.07pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 men-
+ []
+
+
+Overfull \hbox (13.25pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 tal
+ []
+
+
+Overfull \hbox (18.86pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 On-
+ []
+
+
+Overfull \hbox (18.04001pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 line
+ []
+
+
+Overfull \hbox (17.46pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 Ex-
+ []
+
+
+Overfull \hbox (19.0pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 am-
+ []
+
+
+Overfull \hbox (7.02pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 i-
+ []
+
+
+Overfull \hbox (15.81pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 na-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (22.45999pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 Best
+ []
+
+
+Overfull \hbox (35.56001pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 project
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (21.35pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 year
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 2012\nullfont . 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37         \item {
+                  Vice-president of \textbf{Association of Computer Technolo...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (17.06pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 As-
+ []
+
+
+Overfull \hbox (14.12pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (12.13pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 ci-
+ []
+
+
+Overfull \hbox (9.42pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (27.47pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 Com-
+ []
+
+
+Overfull \hbox (27.26001pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 puter
+ []
+
+
+Overfull \hbox (27.31999pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (19.16pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 nol-
+ []
+
+
+Overfull \hbox (17.57pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 ogy
+ []
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 Stu-
+ []
+
+
+Overfull \hbox (26.73999pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 dents
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38         \item{
+                 Organized various events such as Programming Contests, Code...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.39       \end{cvitems}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{cventries}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \end{cventries}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> education.tex
+              
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 15 strings out of 494481
+ 100000,89155 words of node,token memory allocated 11992 words of node memory still in use:
+   145 hlist, 44 disc, 12 local_par, 1 dir, 404 glue, 25 kern, 94 penalty, 1048 
+glyph, 91 attribute, 35 glue_spec, 91 attribute_list nodes
+   avail lists: 2:2,3:1,4:19,5:3,7:16,8:1,10:18
+ 4261 multiletter control sequences out of 65536+600000
+ 15 fonts using 723367 bytes
+ 13i,1n,8p,147b,98s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
