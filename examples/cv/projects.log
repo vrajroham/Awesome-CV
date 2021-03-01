@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.11.22)  22 FEB 2018 00:08
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.11.22)  1 MAY 2020 12:00
  restricted system commands enabled.
 **projects.tex
 (./projects.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.135 seconds
+luaotfload | main : initialization completed in 0.148 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 ! Undefined control sequence.
 l.4 \cvsection
@@ -92,8 +92,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14     {M
-         YVIZO} % Affiliation/role
+l.14     {P
+         ersonal Product} % Affiliation/role
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -113,7 +113,7 @@ or  <return>  to continue without it.
 
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 14--20
-[]MYVIZO
+[]Personal
  []
 
 
@@ -124,6 +124,88 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.20         \item {
+                  By profession I'm a developer and by passion I'm Rider. My...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	 \item {
+            MyRiderhood allows riders to join the clubs from nearby locality...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.21 ... track their rides, publish the video logs &
+                                                   blog posts and much more. }
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 	  \item {
+             MyRiderhood has some paid InApp features which enables club own...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.27   \cventry
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33       \begin{cvitems}
+                         % Description(s) of experience/contributions/knowledge
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34         \item {
                   The product enables hirers to Judge Personality, Competenc...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -135,7 +217,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21         \item {
+l.35         \item {
                   This tool allows hirers to step back and relax, when a poo...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -144,47 +226,47 @@ luaotfload | db : Font names database loaded from /Users/vrajroham/Library/texli
 ve/2017/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /Use
 rs/vrajroham/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmrom
 an10-bold.luc)
-Overfull \hbox (17.26001pt too wide) in paragraph at lines 21--23
+Overfull \hbox (17.26001pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 Ar-
  []
 
 
-Overfull \hbox (18.2pt too wide) in paragraph at lines 21--23
+Overfull \hbox (18.2pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 chi-
  []
 
 
-Overfull \hbox (18.68001pt too wide) in paragraph at lines 21--23
+Overfull \hbox (18.68001pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 tec-
  []
 
 
-Overfull \hbox (20.87001pt too wide) in paragraph at lines 21--23
+Overfull \hbox (20.87001pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 ture
  []
 
 
-Overfull \hbox (18.37pt too wide) in paragraph at lines 21--23
+Overfull \hbox (18.37pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 and
  []
 
 
-Overfull \hbox (27.31999pt too wide) in paragraph at lines 21--23
+Overfull \hbox (27.31999pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 Tech-
  []
 
 
-Overfull \hbox (19.16pt too wide) in paragraph at lines 21--23
+Overfull \hbox (19.16pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 nol-
  []
 
 
-Overfull \hbox (17.57pt too wide) in paragraph at lines 21--23
+Overfull \hbox (17.57pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 ogy
  []
 
 
-Overfull \hbox (27.31pt too wide) in paragraph at lines 21--23
+Overfull \hbox (27.31pt too wide) in paragraph at lines 35--37
 \TU/lmr/bx/n/10 Stack
  []
 
@@ -195,53 +277,53 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23         \item {
+l.37         \item {
                   Product technical stack consist \textbf{Laravel, Vue.js, W...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (21.08pt too wide) in paragraph at lines 23--24
+Overfull \hbox (21.08pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 Lar-
  []
 
 
-Overfull \hbox (22.67pt too wide) in paragraph at lines 23--24
+Overfull \hbox (22.67pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 avel,
  []
 
 
-Overfull \hbox (33.81999pt too wide) in paragraph at lines 23--24
+Overfull \hbox (33.81999pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 Vue.js,
  []
 
 
-Overfull \hbox (20.03pt too wide) in paragraph at lines 23--24
+Overfull \hbox (20.03pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 We-
  []
 
 
-Overfull \hbox (30.37pt too wide) in paragraph at lines 23--24
+Overfull \hbox (30.37pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 bRTC
  []
 
 
-Overfull \hbox (18.37pt too wide) in paragraph at lines 23--24
+Overfull \hbox (18.37pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 and
  []
 
 
-Overfull \hbox (33.33002pt too wide) in paragraph at lines 23--24
+Overfull \hbox (33.33002pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 Recor-
  []
 
 
-Overfull \hbox (33.56pt too wide) in paragraph at lines 23--24
+Overfull \hbox (33.56pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 dRTC,
  []
 
 
-Overfull \hbox (37.97pt too wide) in paragraph at lines 23--24
+Overfull \hbox (37.97pt too wide) in paragraph at lines 37--38
 \TU/lmr/bx/n/10 Node.js
  []
 
@@ -252,33 +334,33 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24         \item {
+l.38         \item {
                   Implemented compression and transcoding algorithm to compr...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (29.23001pt too wide) in paragraph at lines 24--25
+Overfull \hbox (29.23001pt too wide) in paragraph at lines 38--39
 \TU/lmr/bx/n/10 FFM-
  []
 
 
-Overfull \hbox (24.45999pt too wide) in paragraph at lines 24--25
+Overfull \hbox (24.45999pt too wide) in paragraph at lines 38--39
 \TU/lmr/bx/n/10 PEG
  []
 
 
-Overfull \hbox (18.37pt too wide) in paragraph at lines 24--25
+Overfull \hbox (18.37pt too wide) in paragraph at lines 38--39
 \TU/lmr/bx/n/10 and
  []
 
 
-Overfull \hbox (19.93001pt too wide) in paragraph at lines 24--25
+Overfull \hbox (19.93001pt too wide) in paragraph at lines 38--39
 \TU/lmr/bx/n/10 AV-
  []
 
 
-Overfull \hbox (34.64pt too wide) in paragraph at lines 24--25
+Overfull \hbox (34.64pt too wide) in paragraph at lines 38--39
 \TU/lmr/bx/n/10 CONV\nullfont ,
  []
 
@@ -289,28 +371,28 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25         \item {
+l.39         \item {
                   Implemented \textbf{Live Interviews} module which enables ...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (21.13pt too wide) in paragraph at lines 25--26
+Overfull \hbox (21.13pt too wide) in paragraph at lines 39--40
 \TU/lmr/bx/n/10 Live
  []
 
 
-Overfull \hbox (14.58pt too wide) in paragraph at lines 25--26
+Overfull \hbox (14.58pt too wide) in paragraph at lines 39--40
 \TU/lmr/bx/n/10 In-
  []
 
 
-Overfull \hbox (18.31001pt too wide) in paragraph at lines 25--26
+Overfull \hbox (18.31001pt too wide) in paragraph at lines 39--40
 \TU/lmr/bx/n/10 ter-
  []
 
 
-Overfull \hbox (27.38pt too wide) in paragraph at lines 25--26
+Overfull \hbox (27.38pt too wide) in paragraph at lines 39--40
 \TU/lmr/bx/n/10 views
  []
 
@@ -321,18 +403,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26         \item {
+l.40         \item {
                   Above implementation completely utilizes \textbf{WebRTC} f...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.03pt too wide) in paragraph at lines 26--27
+Overfull \hbox (20.03pt too wide) in paragraph at lines 40--41
 \TU/lmr/bx/n/10 We-
  []
 
 
-Overfull \hbox (30.37pt too wide) in paragraph at lines 26--27
+Overfull \hbox (30.37pt too wide) in paragraph at lines 40--41
 \TU/lmr/bx/n/10 bRTC
  []
 
@@ -343,7 +425,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27         \item {
+l.41         \item {
                   Implemented API's for Android and IOS applications for sam...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -355,43 +437,43 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28         \item {
+l.42         \item {
                   Involved in daily code reviews setting DevOps tasks like C...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.53pt too wide) in paragraph at lines 28--29
+Overfull \hbox (20.53pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 Git-
  []
 
 
-Overfull \hbox (15.17pt too wide) in paragraph at lines 28--29
+Overfull \hbox (15.17pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 lab
  []
 
 
-Overfull \hbox (24.92pt too wide) in paragraph at lines 28--29
+Overfull \hbox (24.92pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 Run-
  []
 
 
-Overfull \hbox (20.94pt too wide) in paragraph at lines 28--29
+Overfull \hbox (20.94pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 ners
  []
 
 
-Overfull \hbox (18.37pt too wide) in paragraph at lines 28--29
+Overfull \hbox (18.37pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 and
  []
 
 
-Overfull \hbox (26.19pt too wide) in paragraph at lines 28--29
+Overfull \hbox (26.19pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 Ship-
  []
 
 
-Overfull \hbox (26.83pt too wide) in paragraph at lines 28--29
+Overfull \hbox (26.83pt too wide) in paragraph at lines 42--43
 \TU/lmr/bx/n/10 pable
  []
 
@@ -402,7 +484,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29         \item {
+l.43         \item {
                   Developed \textbf{Amazon Alexa Skills} to provide voice po...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -414,14 +496,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31       \end{cvitems}
+l.45       \end{cvitems}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.34     \cventry
+l.48     \cventry
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -436,7 +518,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40       \begin{cvitems}
+l.54       \begin{cvitems}
                          % Description(s) of experience/contributions/knowledge
 
 Your command was ignored.
@@ -444,32 +526,32 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (27.69pt too wide) in paragraph at lines 29--41
+Overfull \hbox (27.69pt too wide) in paragraph at lines 43--55
 \TU/lmr/bx/n/10 Ama-
  []
 
 
-Overfull \hbox (17.25pt too wide) in paragraph at lines 29--41
+Overfull \hbox (17.25pt too wide) in paragraph at lines 43--55
 \TU/lmr/bx/n/10 zon
  []
 
 
-Overfull \hbox (28.81001pt too wide) in paragraph at lines 29--41
+Overfull \hbox (28.81001pt too wide) in paragraph at lines 43--55
 \TU/lmr/bx/n/10 Alexa
  []
 
 
-Overfull \hbox (26.57pt too wide) in paragraph at lines 29--41
+Overfull \hbox (26.57pt too wide) in paragraph at lines 43--55
 \TU/lmr/bx/n/10 Skills
  []
 
 
-Overfull \hbox (39.68999pt too wide) in paragraph at lines 29--41
+Overfull \hbox (39.68999pt too wide) in paragraph at lines 43--55
 \TU/lmr/bx/n/10 OAuth2
  []
 
 
-Overfull \hbox (32.16002pt too wide) in paragraph at lines 29--41
+Overfull \hbox (32.16002pt too wide) in paragraph at lines 43--55
 \TU/lmr/bx/n/10 Server\nullfont .
  []
 
@@ -480,7 +562,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41         \item {
+l.55         \item {
                   Automated organizations internal operational process with ...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -492,23 +574,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42         \item {
+l.56         \item {
                   Product technical stack consist \textbf{Laravel, Vue.js} f...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (21.08pt too wide) in paragraph at lines 42--43
+Overfull \hbox (21.08pt too wide) in paragraph at lines 56--57
 \TU/lmr/bx/n/10 Lar-
  []
 
 
-Overfull \hbox (22.67pt too wide) in paragraph at lines 42--43
+Overfull \hbox (22.67pt too wide) in paragraph at lines 56--57
 \TU/lmr/bx/n/10 avel,
  []
 
 
-Overfull \hbox (30.62999pt too wide) in paragraph at lines 42--43
+Overfull \hbox (30.62999pt too wide) in paragraph at lines 56--57
 \TU/lmr/bx/n/10 Vue.js
  []
 
@@ -519,7 +601,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43         \item {
+l.57         \item {
                   Implemented API's for internal application built using Ion...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -531,28 +613,28 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44         \item {
+l.58         \item {
                   Developed \textbf{Amazon Alexa Skills} to provide voice po...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (27.69pt too wide) in paragraph at lines 44--45
+Overfull \hbox (27.69pt too wide) in paragraph at lines 58--59
 \TU/lmr/bx/n/10 Ama-
  []
 
 
-Overfull \hbox (17.25pt too wide) in paragraph at lines 44--45
+Overfull \hbox (17.25pt too wide) in paragraph at lines 58--59
 \TU/lmr/bx/n/10 zon
  []
 
 
-Overfull \hbox (28.81001pt too wide) in paragraph at lines 44--45
+Overfull \hbox (28.81001pt too wide) in paragraph at lines 58--59
 \TU/lmr/bx/n/10 Alexa
  []
 
 
-Overfull \hbox (26.57pt too wide) in paragraph at lines 44--45
+Overfull \hbox (26.57pt too wide) in paragraph at lines 58--59
 \TU/lmr/bx/n/10 Skills
  []
 
@@ -563,7 +645,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45         \item {
+l.59         \item {
                   Implemented \textbf{Applicant Tracking System (ATS)} to tr...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -575,14 +657,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47       \end{cvitems}
+l.61       \end{cvitems}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.50     \cventry
+l.64     \cventry
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -597,7 +679,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56       \begin{cvitems}
+l.70       \begin{cvitems}
                          % Description(s) of experience/contributions/knowledge
 
 Your command was ignored.
@@ -605,42 +687,42 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (18.91pt too wide) in paragraph at lines 45--57
+Overfull \hbox (18.91pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 Ap-
  []
 
 
-Overfull \hbox (16.6pt too wide) in paragraph at lines 45--57
+Overfull \hbox (16.6pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 pli-
  []
 
 
-Overfull \hbox (21.23999pt too wide) in paragraph at lines 45--57
+Overfull \hbox (21.23999pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 cant
  []
 
 
-Overfull \hbox (32.06pt too wide) in paragraph at lines 45--57
+Overfull \hbox (32.06pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 Track-
  []
 
 
-Overfull \hbox (15.33pt too wide) in paragraph at lines 45--57
+Overfull \hbox (15.33pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 ing
  []
 
 
-Overfull \hbox (20.83pt too wide) in paragraph at lines 45--57
+Overfull \hbox (20.83pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 Sys-
  []
 
 
-Overfull \hbox (19.32pt too wide) in paragraph at lines 45--57
+Overfull \hbox (19.32pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 tem
  []
 
 
-Overfull \hbox (31.06pt too wide) in paragraph at lines 45--57
+Overfull \hbox (31.06pt too wide) in paragraph at lines 59--71
 \TU/lmr/bx/n/10 (ATS)
  []
 
@@ -651,7 +733,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57         \item {
+l.71         \item {
                   Being from farmers family I was knowing and undergone the ...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -663,8 +745,285 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58         \item {
+l.72         \item {
                   Project model helps farmers to monitor their polyhouse/gre...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73         \item {
+                  Architecture consists of \textbf{ZIGBEE Network Topology, ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (24.26pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 ZIG-
+ []
+
+
+Overfull \hbox (23.29999pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 BEE
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Net-
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 work
+ []
+
+
+Overfull \hbox (32.27pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Topol-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 ogy,
+ []
+
+
+Overfull \hbox (58.81998pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Lightweight
+ []
+
+
+Overfull \hbox (42.68001pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Pythong
+ []
+
+
+Overfull \hbox (30.31001pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 server
+ []
+
+
+Overfull \hbox (21.35pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 run-
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 ning
+ []
+
+
+Overfull \hbox (12.14pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (22.87pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Bea-
+ []
+
+
+Overfull \hbox (18.04001pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 gle-
+ []
+
+
+Overfull \hbox (25.59pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Bone
+ []
+
+
+Overfull \hbox (27.81999pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 Black
+ []
+
+
+Overfull \hbox (18.37pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (20.28pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 bat-
+ []
+
+
+Overfull \hbox (18.31001pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 ter-
+ []
+
+
+Overfull \hbox (13.0pt too wide) in paragraph at lines 73--74
+\TU/lmr/bx/n/10 ies 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74         \item {
+                  Implemented \textbf{fault tolerant, multipath mesh network...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (23.15pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 fault
+ []
+
+
+Overfull \hbox (17.24pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 tol-
+ []
+
+
+Overfull \hbox (13.84001pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (19.31999pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 ant,
+ []
+
+
+Overfull \hbox (22.67pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 mul-
+ []
+
+
+Overfull \hbox (11.49pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 ti-
+ []
+
+
+Overfull \hbox (22.84pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 path
+ []
+
+
+Overfull \hbox (25.78pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 mesh
+ []
+
+
+Overfull \hbox (19.96pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 net-
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 work
+ []
+
+
+Overfull \hbox (29.70001pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 topol-
+ []
+
+
+Overfull \hbox (17.57pt too wide) in paragraph at lines 74--75
+\TU/lmr/bx/n/10 ogy
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75         \item {
+                  Continuous transmitted data is dumped in live database by ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76         \item{
+                 Mobile application is developed in \textbf{Ionic framework ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (24.8pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 Ionic
+ []
+
+
+Overfull \hbox (32.52pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 frame-
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 work
+ []
+
+
+Overfull \hbox (9.58pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (15.81pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 na-
+ []
+
+
+Overfull \hbox (38.27002pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 tive/re-
+ []
+
+
+Overfull \hbox (29.86pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 gional
+ []
+
+
+Overfull \hbox (19.0pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 lan-
+ []
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 76--77
+\TU/lmr/bx/n/10 guage\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77         \item {
+                  From precise location of farm, exact weather conditions ar...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78         \item {
+                  Presented and published research paper in \textbf{Internat...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -675,7 +1034,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59       \end{cvitems}
+l.79       \end{cvitems}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -688,7 +1047,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 \end{cventries}
+l.82 \end{cventries}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -704,10 +1063,10 @@ or  <return>  to continue without it.
 
 Here is how much of LuaTeX's memory you used:
  15 strings out of 494481
- 100000,89155 words of node,token memory allocated 21047 words of node memory still in use:
-   122 hlist, 23 disc, 18 local_par, 1 dir, 607 glue, 35 kern, 96 penalty, 2355 
-glyph, 125 attribute, 35 glue_spec, 125 attribute_list, 1 temp nodes
-   avail lists: 1:1,3:1,4:33,5:3,7:7,8:1,9:1,10:32
+ 100000,89155 words of node,token memory allocated 31794 words of node memory still in use:
+   193 hlist, 41 disc, 27 local_par, 1 dir, 941 glue, 54 kern, 149 penalty, 3527
+ glyph, 183 attribute, 35 glue_spec, 183 attribute_list, 1 temp nodes
+   avail lists: 3:1,4:37,5:4,8:1,9:1,10:36
  4261 multiletter control sequences out of 65536+600000
  15 fonts using 723367 bytes
  13i,1n,8p,244b,96s stack positions out of 5000i,500n,10000p,200000b,100000s

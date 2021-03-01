@@ -1,0 +1,551 @@
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.11.22)  13 MAY 2019 12:03
+ restricted system commands enabled.
+**extracurricular.tex
+(./extracurricular.tex
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /Users/vrajroham/Library/texlive/2017/texmf-var/lua
+tex-cache/generic)(using read cache: /usr/local/texlive/2017/texmf-var/luatex-ca
+che/generic /Users/vrajroham/Library/texlive/2017/texmf-var/luatex-cache/generic
+)
+luaotfload | conf : Root cache directory is /Users/vrajroham/Library/texlive/201
+7/texmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/local/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /Users/vrajroham/Library/texlive/201
+7/texmf-var/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.250 seconds
+Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+! Undefined control sequence.
+l.4 \cvsection
+            {Extracurricular Activity}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \cvsection{E
+              xtracurricular Activity}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[]Extracurricular
+ []
+
+
+! LaTeX Error: Environment cventries undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{cventries}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.13   \cventry
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14     {B
+         uild natural voice experience with Laravel Application \& Amazon Al...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19       \begin{cvitems}
+                         % Description(s) of experience/contributions/knowledge
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 14--20
+[]Build
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20         \item {
+                  LaravelLive's goal is to bring together bright minds to gi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21         \item {
+                  LaravelLive brings top notch developers of the ecosystem t...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22         \item {
+                  I will be speaking on, \textbf{Secure Integration of Larav...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from /Users/vrajroham/Library/texli
+ve/2017/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /Use
+rs/vrajroham/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmrom
+an10-bold.luc)
+Overfull \hbox (15.49pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 Se-
+ []
+
+
+Overfull \hbox (21.51001pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 cure
+ []
+
+
+Overfull \hbox (14.58pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 In-
+ []
+
+
+Overfull \hbox (13.57pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 te-
+ []
+
+
+Overfull \hbox (19.91pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 gra-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 Lar-
+ []
+
+
+Overfull \hbox (19.48pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 avel
+ []
+
+
+Overfull \hbox (18.91pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 Ap-
+ []
+
+
+Overfull \hbox (16.6pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 pli-
+ []
+
+
+Overfull \hbox (14.53pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (18.37pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (27.69pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 Ama-
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 zon
+ []
+
+
+Overfull \hbox (28.81001pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 Alexa
+ []
+
+
+Overfull \hbox (10.22pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (15.81pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 au-
+ []
+
+
+Overfull \hbox (14.05pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 to-
+ []
+
+
+Overfull \hbox (24.91pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 mate
+ []
+
+
+Overfull \hbox (24.43001pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 daily
+ []
+
+
+Overfull \hbox (25.20999pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 tasks
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23         \item {
+                  Designed \textbf{LaravelLive - 2018} event website(\href{h...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.23 ...xtbf{LaravelLive - 2018} event website(\href
+                                                  {http://laravellive.in}{ht...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.27   \cventry
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33       \begin{cvitems}
+                         % Description(s) of experience/contributions/knowledge
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 Lar-
+ []
+
+
+Overfull \hbox (23.31pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 avel-
+ []
+
+
+Overfull \hbox (21.13pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 Live
+ []
+
+
+Overfull \hbox (3.83pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 -
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 2018
+ []
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 Lar-
+ []
+
+
+Overfull \hbox (19.48pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 avel
+ []
+
+
+Overfull \hbox (14.69pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 5.5
+ []
+
+
+Overfull \hbox (18.37pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (22.84pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 Tail-
+ []
+
+
+Overfull \hbox (28.11pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 wind-
+ []
+
+
+Overfull \hbox (21.09pt too wide) in paragraph at lines 23--34
+\TU/lmr/bx/n/10 CSS\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34         \item {
+                  A Vue.js component for Dropzone.js - a drag’n’drop fil...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35         \item {
+                  Redesigned complete component to support Vue2 with Author.}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36         \item {
+                  Contributed additional feature \textbf{Direct upload to AW...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.84001pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 Di-
+ []
+
+
+Overfull \hbox (19.59001pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 rect
+ []
+
+
+Overfull \hbox (16.61pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 up-
+ []
+
+
+Overfull \hbox (20.92pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 load
+ []
+
+
+Overfull \hbox (10.22pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (25.69pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 AWS
+ []
+
+
+Overfull \hbox (12.14pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 S3
+ []
+
+
+Overfull \hbox (23.58pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 from
+ []
+
+
+Overfull \hbox (39.42pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 browser
+ []
+
+
+Overfull \hbox (14.76pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 us-
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (20.23001pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 pre-
+ []
+
+
+Overfull \hbox (31.53pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 signed
+ []
+
+
+Overfull \hbox (14.32pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 url\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37         \item {
+                  Focusing on bug fixing, resolving user queries on github, ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{cventries}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{cventries}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> extracurricular.tex
+                    
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 15 strings out of 494481
+ 100000,89155 words of node,token memory allocated 11487 words of node memory still in use:
+   83 hlist, 20 disc, 10 local_par, 1 dir, 346 glue, 12 kern, 54 penalty, 1218 g
+lyph, 66 attribute, 35 glue_spec, 66 attribute_list nodes
+   avail lists: 2:2,3:1,4:34,5:3,7:24,8:1,10:33
+ 4261 multiletter control sequences out of 65536+600000
+ 15 fonts using 723367 bytes
+ 13i,1n,8p,245b,96s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
